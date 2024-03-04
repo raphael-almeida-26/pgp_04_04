@@ -11,4 +11,4 @@ ex8.php : exemplos echoe print <br>
 ex9.php : exemplos de funçao ambiente <br>
 ex10.php : concatenação de string <br>
 ex11.php :usamos get, settype e var_dump <br>
-ex12.php : usando settype para apresentar deivição do valor inteiro
+ex12.php : usando settype para apresentar divição do valor inteiro
